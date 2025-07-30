@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+#heading {
+    text-align: center;
+    font-size: 2.7rem;
+    width: 100%;
+    background-color: rgb(60, 60, 179);
+    color: white;
+    height: 4rem;
+    line-height: 4.3rem;
+    }
+.option {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap: 2.5rem;
+   
+}
+
+#stone:hover{
+    opacity: 85%;
+    cursor: pointer;
+}
+
+#paper:hover{
+    opacity: 85%;
+    cursor: pointer;
+}
+
+#scissors:hover{
+    opacity: 85%;
+    cursor: pointer;
+}
+
+.option .click img {
+  width: 165px;
+  height: auto;
+  margin-top: 3rem;
+  
+}
+
+#score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    margin-top: 1rem;
+}
+ .marks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+    color: rgb(32, 32, 109);
+    padding: 50px;
+    gap: 4rem;
+ }
+ .user-score, .computer-score {
+    margin: 0 20px;
+    padding: 10px;
+   
+    
+ }
+ .msg-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: rgb(32, 32, 109);
+    padding: 10px;
+    margin-left: 2rem;
+    
+
+}
+.msg{
+    display: inline;
+    background-color: rosybrown;
+    border-radius: 10px;
+    height: 40px;
+    justify-content: center;
+    padding: 1rem;
+    
+}
