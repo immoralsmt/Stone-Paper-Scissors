@@ -1,6 +1,6 @@
 # Stone-Paper-Scissors
 Stone Paper Scissors
-## 🪨📄✂️ **Rock Paper Scissors (R Edition)**
+## 🪨📄✂️ **Rock Paper Scissors**
 
 **Ready to Play?**  
 Rock Paper Scissors (also known as Stone Paper Scissors) is a fun and classic hand game built here as a simple, interactive app.
